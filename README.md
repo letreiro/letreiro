@@ -3,7 +3,7 @@
 
 I am an archaeologist and Doctoral Student at [PPGArq/UFPE - Recife, PE, Brazil](https://www.ufpe.br/ppgarqueologia/).
 
-I am interested in Geoarchaeology, GIS, Reproducibility and R.
+I am interested in Geoarchaeology, GIS, Reproducibility, Dataviz and R.
 
 ### About me:
 
