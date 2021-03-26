@@ -1,4 +1,4 @@
-Hi, I'm Igor Pedroza!<br>
+##Hi, I'm Igor Pedroza!<br>
 (he, him, his)
 
 I am an archaeologist and Doctoral Student at [PPGArq/UFPE - Recife, PE, Brazil](https://www.ufpe.br/ppgarqueologia/).
@@ -14,8 +14,6 @@ I am interested in Geoarchaeology, GIS, Reproducibility and R.
 [<img align="left" width="22px" src="https://i.imgur.com/2iVxee6.png"/>](http://lattes.cnpq.br/3970582841887411)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/researchgate.svg"/>](https://www.researchgate.net/profile/Igor-Pedroza)
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/osf.svg"/>](https://osf.io/cby2x/)
-
-
 
 <br>
 <br>
