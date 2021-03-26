@@ -1,4 +1,4 @@
-##Hi, I'm Igor Pedroza!<br>
+### Hi, I'm Igor Pedroza!<br>
 (he, him, his)
 
 I am an archaeologist and Doctoral Student at [PPGArq/UFPE - Recife, PE, Brazil](https://www.ufpe.br/ppgarqueologia/).
