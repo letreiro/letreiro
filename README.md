@@ -1,4 +1,6 @@
+![R](https://img.shields.io/badge/R-Learner-gren)
 ### Hi, I'm Igor Pedroza!<br>
+
 (he, him, his)
 
 I am an archaeologist and Doctoral Student at [PPGArq/UFPE - Recife, PE, Brazil](https://www.ufpe.br/ppgarqueologia/).
