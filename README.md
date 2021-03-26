@@ -19,4 +19,5 @@ I am interested in Geoarchaeology, GIS, Reproducibility and R.
 <br>
 <br>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=letreiro&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=letreiro&theme=graywhite&show_icons=true)
+
